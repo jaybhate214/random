@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry combineaccessrules="false" kind="src" path="/EntityExtraction"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/aopalliance-repackaged-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/grizzly-framework-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/grizzly-http-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/grizzly-http-server-2.3.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/hk2-api-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/hk2-locator-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/hk2-utils-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/hppc-0.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jackson-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jackson-core-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jackson-databind-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jackson-jaxrs-base-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jackson-jaxrs-json-provider-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jackson-module-jaxb-annotations-2.8.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/javax.inject-2.5.0-b30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-client-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-common-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-container-grizzly2-http-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-entity-filtering-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-guava-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-media-jaxb-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-media-json-jackson-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/jersey-server-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/morfologik-fsa-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/morfologik-fsa-builders-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/morfologik-stemming-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/morfologik-tools-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/opennlp-brat-annotator-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/opennlp-morfologik-addon-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/opennlp-tools-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/opennlp-uima-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/org.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/stanford-english-corenlp-2016-10-31-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/workspace/random-master/random-master/EntityExtraction/opennlp-tools-1.5.3.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

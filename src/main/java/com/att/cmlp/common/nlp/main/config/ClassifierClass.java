@@ -1,0 +1,7 @@
+package com.att.cmlp.common.nlp.main.config;
+
+//class3_LocationPersonOrganization,class4_LocationPersonOrganizationMisc,class7_LocationPersonOrganizationMoneyPercentDateTime
+public enum ClassifierClass
+{
+	class3_LocationPersonOrganization,class4_LocationPersonOrganizationMisc,class7_LocationPersonOrganizationMoneyPercentDateTime
+}
